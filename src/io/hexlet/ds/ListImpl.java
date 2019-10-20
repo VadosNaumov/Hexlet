@@ -1,4 +1,5 @@
-package io.hexlet.ds;
+package src.io.hexlet.ds;
+
 import java.util.*;
 import java.lang.reflect.Array;
 
