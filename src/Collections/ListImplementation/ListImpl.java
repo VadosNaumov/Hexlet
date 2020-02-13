@@ -1,4 +1,4 @@
-package src.io.hexlet.ds;
+package src.Collections;
 
 import java.util.*;
 import java.lang.reflect.Array;
