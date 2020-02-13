@@ -1,2 +1,2 @@
 # Hexlet
-My LinkedList implementation
+Мои решения на задачи по темам: Collections, Concurrancy, Web Service.
